@@ -31,36 +31,6 @@
 | **Languages** | Python, Bash |
 | **Concepts** | CEH Domains, Vulnerability Assessment, Threat Modelling |
 
----
-
-## 📂 Featured Projects
-
-### 🔎 [CEH Practice Lab](https://github.com/Vaishnavi-07823/CEH-practice-lab)
-Hands-on CEH preparation — lab notes, tool usage, and practice scenarios mapped to CEH domains.
-
-### 🧪 [Cybersecurity Labs Portfolio](https://github.com/Vaishnavi-07823/cybersecurity-labs)
-A growing portfolio of security labs covering tools, attack simulations, and defensive techniques.
-
-### 🕵️ [Cyber Fraud Investigation](https://github.com/Vaishnavi-07823/Cyber-Fraud-Investigation)
-Case-based analysis of cyber fraud attack patterns, investigation workflows, and prevention methods.
-
-### 📱 [Mobile Malware Forensics Methodology](https://github.com/Vaishnavi-07823/Mobile-Malware-Forensics-Methodology)
-Static analysis workflow for suspicious Android apps to identify financial fraud vectors.
-
-### 🌿 [Environment Education Platform](https://github.com/Vaishnavi-07823/Environment-education-platform-)
-A gamified TypeScript platform for environmental education aligned with SDG goals.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-07823&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-07823&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 🎯 Currently Learning
 
