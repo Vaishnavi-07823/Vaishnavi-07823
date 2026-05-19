@@ -50,9 +50,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-07823&color=00c896&style=flat-square" alt="Profile views" />
-</p>
-
 <p align="center"><em>"The quieter you become, the more you are able to hear." – Kali Linux</em></p>
