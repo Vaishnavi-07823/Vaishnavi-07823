@@ -1,107 +1,91 @@
-<!-- Banner -->
+<h1 align="center">Hi, I'm Vaishnavi Trivedi 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Vaishnavi%20Trivedi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Digital%20Forensics%20%7C%20Fraud%20Analytics&descAlignY=58&descAlign=50" width="100%"/>
+  <em>Cybersecurity Student • CEH Aspirant • Ethical Hacker in the Making</em>
 </p>
 
-<!-- Profile Views + Social Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-07823&color=6C63FF&style=flat-square&label=Profile+Views" />
-  <a href="https://www.linkedin.com/in/vaishnavi-trivedi-cyber/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vaishnavitrivedi240@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Breaking+bugs%2C+not+systems+%F0%9F%94%90;Half+human%2C+half+firewall+%F0%9F%98%8E;I+secure+before+I+code+%F0%9F%94%92;Cyber+Ninja+exploring+code+%26+chaos+%F0%9F%A5%B7" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👩‍💻 Who am I?
+## 🧠 About Me
 
-I'm a **Cybersecurity undergraduate** (B.Tech CSE – Cyber Security) at G.H. Raisoni College of Engineering, Nagpur — CGPA 8.27.
-
-What sets me apart: I interned at the **Nagpur Cyber Police Station** (authorized by Dy. Commissioner of Police, Lohit Matani IPS) — where I handled real APK malware analysis, CCTV surveillance forensics, UPI fraud cases, and digital evidence workflows. Not just theory — actual live law enforcement experience.
-
----
-
-## 🔭 Currently Working On
-
-- 🛡️ **UPI Fraud Detection System** — Pre-transaction fraud detection model (Python, Pandas, SQL)
-  - Flags suspicious UPI activity *before* it completes
-  - Based on real fraud patterns from my Cyber Cell internship
-  - Anomaly detection: amount thresholds, frequency analysis, behavioral indicators
-- 📝 **CEH v13 Certification** — Training complete, exam scheduled June 2026
+- 🎓 Pursuing a degree in **Cybersecurity**
+- 🛡️ Preparing for **CEH (Certified Ethical Hacker)**
+- 🔍 Passionate about **ethical hacking, digital forensics & threat analysis**
+- 🌏 Based in **India**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-trivedi-8328a9296/)
 
 ---
 
-## 🛠️ Tools & Skills
+## 🔐 Skills & Tools
 
-**Security & Forensics**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=for-the-badge&logo=tenable&logoColor=white)
-
-**Programming & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Fraud & Compliance Portals**
-
-![Sachet Saathi](https://img.shields.io/badge/Sachet_Saathi_(RBI)-00539C?style=for-the-badge&logoColor=white)
-![Chakshu](https://img.shields.io/badge/Chakshu_(DoT)-FF6600?style=for-the-badge&logoColor=white)
-![StopNCII](https://img.shields.io/badge/StopNCII-8B0000?style=for-the-badge&logoColor=white)
-![CEIR](https://img.shields.io/badge/CEIR-2E8B57?style=for-the-badge&logoColor=white)
+| Category | Tools / Technologies |
+|----------|----------------------|
+| **Networking** | Wireshark, Nmap, Netcat |
+| **OS** | Kali Linux, Windows, Ubuntu |
+| **Web Security** | Burp Suite, OWASP Top 10 |
+| **Forensics** | Autopsy, FTK Imager |
+| **Languages** | Python, Bash |
+| **Concepts** | CEH Domains, Vulnerability Assessment, Threat Modelling |
 
 ---
 
-## 💼 Professional Experience
+## 📂 Featured Projects
 
-### 🔍 Cyber Forensics Intern — Nagpur Cyber Police Station
-**Dec 2025 – Jan 2026 | Authorized by Dy. CP Lohit Matani IPS**
+### 🔎 [CEH Practice Lab](https://github.com/Vaishnavi-07823/CEH-practice-lab)
+Hands-on CEH preparation — lab notes, tool usage, and practice scenarios mapped to CEH domains.
 
-- Conducted **static analysis of a malicious RTO challan APK** — identified data harvesting mechanisms used in phishing attacks targeting Indian mobile users
-- Assisted in **CCTV surveillance analysis** for a corporate fraud case — behavioral pattern analysis led to apprehension of 2 suspects
-- Processed daily **UPI fraud cases** and filed reports on Sachet Saathi (RBI), Chakshu (DoT), StopNCII portals; handled CEIR lost device tracking
-- Observed **hash code generation** for digital evidence integrity — chain of custody practice in live forensics environment
+### 🧪 [Cybersecurity Labs Portfolio](https://github.com/Vaishnavi-07823/cybersecurity-labs)
+A growing portfolio of security labs covering tools, attack simulations, and defensive techniques.
 
----
+### 🕵️ [Cyber Fraud Investigation](https://github.com/Vaishnavi-07823/Cyber-Fraud-Investigation)
+Case-based analysis of cyber fraud attack patterns, investigation workflows, and prevention methods.
 
-## 🏆 Certifications & Achievements
+### 📱 [Mobile Malware Forensics Methodology](https://github.com/Vaishnavi-07823/Mobile-Malware-Forensics-Methodology)
+Static analysis workflow for suspicious Android apps to identify financial fraud vectors.
 
-| Certification | Status |
-|---|---|
-| CEH v13 — EC-Council | Training complete · Exam: June 2026 |
-| CompTIA Network+ | Completed |
-| CISM | Completed |
-| Python 3.4.3 — Simplilearn / EduSkills | 85% |
-| HackerVerse CTF — Jul & Aug 2025 | Binary Analysis, Cryptography, Ghidra, OSINT, Audio Forensics |
-| EC-Council CTF Challenges | Binary, Encryption, OSINT, Audio Analysis |
+### 🌿 [Environment Education Platform](https://github.com/Vaishnavi-07823/Environment-education-platform-)
+A gamified TypeScript platform for environmental education aligned with SDG goals.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-07823&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-07823&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-07823&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-07823&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📬 Reach Me
+## 🎯 Currently Learning
 
-<p align="center">
-  <a href="mailto:vaishnavitrivedi240@gmail.com">📧 vaishnavitrivedi240@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/vaishnavi-trivedi-cyber/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Vaishnavi-07823">🐙 GitHub</a> &nbsp;|&nbsp;
-  📞 +91 9604785331
+- ✅ CEH v12 Exam Preparation
+- 📖 Network Packet Analysis (Wireshark)
+- 🔧 Python Scripting for Security Automation
+- 🧩 CTF Challenges (TryHackMe / HackTheBox)
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaishnavi-trivedi-8328a9296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi%20Trivedi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Vaishnavi-07823" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Vaishnavi--07823-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<!-- Footer -->
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-07823&color=00c896&style=flat-square" alt="Profile views" />
 </p>
+
+<p align="center"><em>"The quieter you become, the more you are able to hear." – Kali Linux</em></p>
