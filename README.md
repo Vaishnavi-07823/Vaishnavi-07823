@@ -18,8 +18,6 @@
 - 🌏 Based in **India**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-trivedi-8328a9296/)
 
----
-
 ## 🔐 Skills & Tools
 
 | Category | Tools / Technologies |
@@ -34,13 +32,12 @@
 
 ## 🎯 Currently Learning
 
-- ✅ CEH v12 Exam Preparation
+- ✅ CEH v13 Exam Preparation
 - 📖 Network Packet Analysis (Wireshark)
 - 🔧 Python Scripting for Security Automation
 - 🧩 CTF Challenges (TryHackMe / HackTheBox)
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="left">
