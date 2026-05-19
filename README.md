@@ -39,7 +39,6 @@
 
 ---
 ## 🤝 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/vaishnavi-trivedi-8328a9296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi%20Trivedi-blue?style=for-the-badge&logo=linkedin" />
@@ -50,4 +49,7 @@
 </p>
 
 ---
-<p align="center"><em>"The quieter you become, the more you are able to hear." – Kali Linux</em></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-07823&color=00c896&style=flat-square" alt="Profile views" />
+</p>
