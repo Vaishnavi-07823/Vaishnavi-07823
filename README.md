@@ -10,15 +10,15 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 Pursuing a degree in **Cybersecurity**
-- 🛡️ Preparing for **CEH (Certified Ethical Hacker)**
-- 🔍 Passionate about **ethical hacking, digital forensics & threat analysis**
-- 🌏 Based in **India**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-trivedi-8328a9296/)
+- Pursuing a degree in **Cybersecurity**
+- Preparing for **CEH (Certified Ethical Hacker)**
+- Passionate about **ethical hacking, digital forensics & threat analysis**
+- Based in **India**
+- Reach me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-trivedi-8328a9296/)
 
-## 🔐 Skills & Tools
+##  Skills & Tools
 
 | Category | Tools / Technologies |
 |----------|----------------------|
@@ -30,12 +30,12 @@
 | **Concepts** | CEH Domains, Vulnerability Assessment, Threat Modelling |
 
 
-## 🎯 Currently Learning
+##  Currently Learning
 
-- ✅ CEH v13 Exam Preparation
-- 📖 Network Packet Analysis (Wireshark)
-- 🔧 Python Scripting for Security Automation
-- 🧩 CTF Challenges (TryHackMe / HackTheBox)
+- CEH v13 Exam Preparation
+- Network Packet Analysis (Wireshark)
+- Python Scripting for Security Automation
+- CTF Challenges (TryHackMe / HackTheBox)
 
 ---
 ## 🤝 Connect With Me
