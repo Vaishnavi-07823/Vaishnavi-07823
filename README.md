@@ -32,10 +32,10 @@
 
 ##  Currently Learning
 
-- CEH v13 Exam Preparation
-- Network Packet Analysis (Wireshark)
-- Python Scripting for Security Automation
-- CTF Challenges (TryHackMe / HackTheBox)
+- CEH v13 Exam Preparation.
+- Network Packet Analysis (Wireshark).
+- Python Scripting for Security Automation.
+- CTF Challenges (TryHackMe / HackTheBox).
 
 ---
 ## 🤝 Connect With Me
