@@ -4,10 +4,6 @@
   <em>Cybersecurity Student • CEH Aspirant • Ethical Hacker in the Making</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Breaking+bugs%2C+not+systems+%F0%9F%94%90;Half+human%2C+half+firewall+%F0%9F%98%8E;I+secure+before+I+code+%F0%9F%94%92;Cyber+Ninja+exploring+code+%26+chaos+%F0%9F%A5%B7" alt="Typing SVG" />
-</p>
-
 ---
 
 ##  About Me
