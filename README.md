@@ -34,7 +34,7 @@
 - CTF Challenges (TryHackMe / HackTheBox).
 
 ---
-## 🤝 Connect With Me
+## Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/vaishnavi-trivedi-8328a9296/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi%20Trivedi-blue?style=for-the-badge&logo=linkedin" />
