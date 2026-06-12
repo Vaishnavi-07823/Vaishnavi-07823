@@ -1,51 +1,50 @@
-<h1 align="center">Hi, I'm Vaishnavi Trivedi 👋</h1>
-
-<p align="center">
-  <em>Cybersecurity Student • CEH Aspirant • Ethical Hacker in the Making</em>
-</p>
+# Hi, I'm Vaishnavi Trivedi 👋
+**Cybersecurity Student • CEH v13 Certified • Cyber Forensic Intern**
 
 ---
 
-##  About Me
+## About Me
+- 🎓 B.Tech Cybersecurity @ G.H. Raisoni College of Engineering, Nagpur
+- 🏅 **CEH v13 Certified** (Certified Ethical Hacker)
+- 🔐 **CLLMSP** – Certified LLM Security Professional
+- 👮 Cyber Forensic Intern @ Nagpur Cyber Police Station
+- 🔍 Passionate about Digital Forensics, Threat Analysis & VAPT
+- 📍 Based in Nagpur, India
+- 💼 [LinkedIn](https://linkedin.com/in/vaishnavi-trivedi-cyber)
 
-- Pursuing a degree in **Cybersecurity**
-- Preparing for **CEH (Certified Ethical Hacker)**
-- Passionate about **ethical hacking, digital forensics & threat analysis**
-- Based in **India**
-- Reach me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-trivedi-8328a9296/)
+---
 
-##  Skills & Tools
+## 🛠️ Skills & Tools
 
 | Category | Tools / Technologies |
 |----------|----------------------|
-| **Networking** | Wireshark, Nmap, Netcat |
-| **OS** | Kali Linux, Windows, Ubuntu |
-| **Web Security** | Burp Suite, OWASP Top 10 |
-| **Forensics** | Autopsy, FTK Imager |
-| **Languages** | Python, Bash |
-| **Concepts** | CEH Domains, Vulnerability Assessment, Threat Modelling |
-
-
-##  Currently Learning
-
-- CEH v13 Exam Preparation.
-- Network Packet Analysis (Wireshark).
-- Python Scripting for Security Automation.
-- CTF Challenges (TryHackMe / HackTheBox).
-
----
-## Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/vaishnavi-trivedi-8328a9296/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaishnavi%20Trivedi-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Vaishnavi-07823" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Vaishnavi--07823-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+| Networking | Wireshark, Nmap, Netcat |
+| OS | Kali Linux, Windows, Ubuntu |
+| Web Security | Burp Suite, OWASP Top 10 |
+| Forensics | Autopsy, FTK Imager, Ghidra, jadx, apktool |
+| Languages | Python, Bash, JavaScript |
+| Concepts | CEH Domains, Vulnerability Assessment, Threat Modelling, LLM Security |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaishnavi-07823&color=00c896&style=flat-square" alt="Profile views" />
-</p>
+## 🚀 Featured Project
+**[PayGuard-Neural](https://github.com/Vaishnavi-07823/PayGuard-Neural)** — Pre-transaction UPI fraud detection system with React frontend, FastAPI backend, blockchain fraud registry & Claude AI integration. Inspired by real cases at Nagpur Cyber Police Station.
+
+---
+
+## 📜 Certifications
+- ✅ CEH v13 – Certified Ethical Hacker (EC-Council via Simplilearn)
+- ✅ CLLMSP – Certified LLM Security Professional (Red Team Leaders)
+- ✅ CompTIA Network+ (Simplilearn)
+- ✅ CISM (Simplilearn)
+
+---
+
+## 📊 GitHub Stats
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-07823&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vaishnavi-trivedi-cyber)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vaishnavi-07823)
