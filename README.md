@@ -40,11 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-07823&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vaishnavi-trivedi-cyber)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Vaishnavi-07823)
